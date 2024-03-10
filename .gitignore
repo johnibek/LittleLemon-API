@@ -1,0 +1,11 @@
+# Python files
+.idea/
+__pycach__/
+
+# databse
+db.sqlite3
+
+# pipfiles
+Pipfile
+Pipfile.lock
+
